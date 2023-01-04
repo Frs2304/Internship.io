@@ -1,1 +1,1 @@
-Web Devlopment task for Internship.
+This was my Web Development Internship project.
