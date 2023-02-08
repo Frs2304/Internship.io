@@ -1,1 +1,1 @@
-## This was my Web Development Internship project.
+## My Web Development Internship project.
